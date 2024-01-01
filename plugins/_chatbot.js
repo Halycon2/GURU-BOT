@@ -50,7 +50,7 @@ export async function before(m, { conn }) {
       
       let reply = content.parts[0].text; 
       if (reply) {
-        reply = reply.replace(/Google/gi, 'Guru');
+        reply = reply.replace(/Google/gi, 'Rise');
         reply = reply.replace(/a large language model/gi, botname);
     
     m.reply(reply);
@@ -58,7 +58,7 @@ export async function before(m, { conn }) {
     
       } else {
         
-        m.reply("No suitable response from the API.");
+        m.reply("You're not making sense, asshole.");
     
       }
   } catch (error) {
