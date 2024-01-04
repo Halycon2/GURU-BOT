@@ -15,7 +15,7 @@ import {
  
  const defaultMenu = {
   before: `
-  *Hello, ${pushName}*
+  *Hi There!*
   I'm ${botname} \n
   𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐑𝐈𝐒𝐄
   
