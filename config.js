@@ -8,13 +8,13 @@ import axios from 'axios'
 
 global.owner = [
   ['919567760049', 'Athul', true],
-  ['19283510961', 'Rise', true], 
+  ['2348058068041', 'Rise', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['919567760049','19283510961'] 
+global.mods = ['919567760049','2348058068041'] 
 global.prems = ['919567760049', '19283510961', '919398758484']
 global.allowed = ['919567760049', '19283510961', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -53,7 +53,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'Sara'
 global.premium = 'true'
 global.packname = 'Sara' 
-global.author = 'Athul' 
+global.author = 'Rise' 
 global.menuvid = 'https://i.imgur.com/rm96htV.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/l4louch_3?igsh=MWQwcDNycHU5a3MwMg==\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
