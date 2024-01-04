@@ -15,8 +15,9 @@ import {
  
  const defaultMenu = {
   before: `
-  「 ${botname}」\n
-  A WHATSAPP BOT CREATED BY RISE 
+  「 ${botname} 」\n
+  𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐑𝐈𝐒𝐄
+  
   *%ucpn*
  
  🌹───『 *U S E R*』───🌹
