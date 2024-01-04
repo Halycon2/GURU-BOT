@@ -15,7 +15,7 @@ import {
  
  const defaultMenu = {
   before: `
-  「 ${botname} 」\n
+  「 ${botname}」\n
   *%ucpn*
  
  🌹───『 *U S E R*』───🌹
@@ -224,7 +224,7 @@ import {
  }
  
  function ucapan() {
-  const time = moment.tz("Africa/Lagos").format("HH")
+  const time = moment.tz("Asia/Kolkata").format("HH")
   let res = "Good morning ☀️"
   if (time >= 4) {
    res = "Good Morning 🌄"
